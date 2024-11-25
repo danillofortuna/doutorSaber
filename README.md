@@ -12,7 +12,7 @@
 - Acesse o [console da OpenAI](https://platform.openai.com/settings/organization/billing/overview) e faça login com o mesmo email que você usa para logar na sua Alexa.
 - Adicione um cartão de crédito e adicione um crédito (5$ são suficientes)
 - Acesse suas [chaves de API](https://platform.openai.com/settings/profile?tab=api-keys) e adicione uma chave pessoal clicando em "Create new secret key"
-- Dê um nome de sua escolha e deixe selecionada a opção "Permissions -> All"
+- Dê um nome de sua escolha e deixe selecionada a opção "Permissions -> All".
 - Salve a chave de sua API em um local seguro pois vamos utilizá-la mais tarde. Não entregue essa chave para ninguém, ou poderão consumir seus créditos do GPT com ela.
 
 ## Skill da Alexa
